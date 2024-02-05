@@ -1,0 +1,30 @@
+#box {
+  display: flex;
+  background-color: aqua;
+  flex-direction: row;
+  justify-content: flex-start;
+  border-style: solid;
+}
+
+h1 {
+  border-style: solid;
+}
+
+h2 {
+  border-style: solid;
+}
+h3 {
+  border-style: solid;
+}
+h4 {
+  border-style: solid;
+}
+h5 {
+  border-style: solid;
+}
+h6 {
+  border-style: solid;
+}
+h7 {
+  border-style: solid;
+}
